@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/s23380015@unn.global/projects/c++/25.09.24/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/set.dir/main.cpp.o -c /home/s23380015@unn.global/projects/c++/25.09.24/main.cpp",
+  "file": "/home/s23380015@unn.global/projects/c++/25.09.24/main.cpp"
+},
+{
+  "directory": "/home/s23380015@unn.global/projects/c++/25.09.24/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/set.dir/BitField.cpp.o -c /home/s23380015@unn.global/projects/c++/25.09.24/BitField.cpp",
+  "file": "/home/s23380015@unn.global/projects/c++/25.09.24/BitField.cpp"
+},
+{
+  "directory": "/home/s23380015@unn.global/projects/c++/25.09.24/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/set.dir/set.cpp.o -c /home/s23380015@unn.global/projects/c++/25.09.24/set.cpp",
+  "file": "/home/s23380015@unn.global/projects/c++/25.09.24/set.cpp"
+}
+]
